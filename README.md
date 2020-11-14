@@ -26,8 +26,8 @@ Spanish Telegram Group where some of this projects developers are:
 
 ## Users Repositories
 
-- [AndreasIBZ](https://github.com/AndreasIBZ) - Mechancial Engineer, hobbyist programmer, always "hands-on"
+- [AndreasIBZ](https://github.com/AndreasIBZ) - Mechancial Engineer, hobbyist programmer, always "hands-on".
 
-- [@J-Rios](https://github.com/J-Rios)
+- [@J-Rios](https://github.com/J-Rios) - Telecom engineer, specialized in electronics systems.
 
 - [Xibhu](https://github.com/xibhu) - Carlos mr. Ciclos superiores: Electrotecnia y Automatismos. Desarrollador de Aplicaciones Multiplataformas. Automatismos y Robótica Industrial.
