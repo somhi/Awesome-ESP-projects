@@ -24,6 +24,8 @@ Spanish Telegram Group where some of this projects developers are:
 
 - [tlg-tv-remote](https://github.com/J-Rios/tlg-tv-remote) - Send IR signal to control TV through a telegram bot using a ESP8266 or ESP32 microcontroller
 
+- [uTelegramBot](https://github.com/Kmiz07/uTelegramBot) - To control a Telegram bot from an ESP32 with MicroPython
+
 ## Users Repositories
 
 - [AndreasIBZ](https://github.com/AndreasIBZ) - Mechancial Engineer, hobbyist programmer, always "hands-on".
@@ -33,3 +35,5 @@ Spanish Telegram Group where some of this projects developers are:
 - [Xibhu](https://github.com/xibhu) - Carlos mr. Ciclos superiores: Electrotecnia y Automatismos. Desarrollador de Aplicaciones Multiplataformas. Automatismos y Robótica Industrial.
 
 - [@hpsaturn](https://github.com/hpsaturn) - Antonio Vanegas is a mobile applications specialist, open culture enthusiast, software freedom activist. Founder: [CanAir.IO](https://canair.io) Co-founder: [HackBo](http://hackbo.co) & [Lumera](http://lumera.co/ks)
+
+- [Kmiz07](https://github.com/Kmiz07)
