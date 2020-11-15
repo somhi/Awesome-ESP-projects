@@ -10,7 +10,7 @@ Spanish Telegram Group where some of this projects developers are:
 
 - [awesome-esp](https://github.com/agucova/awesome-esp) - Another existing Awesome list.
 
-- [CanAirIO](https://github.com/kike-canaries/canairio_firmware#canairio-firmware) - Citizen science [project](https://canair.io) that using mobile and fixed stations to measure air quality with ESP32 and Phones
+- [CanAirIO](https://github.com/kike-canaries/canairio_firmware#canairio-firmware) - Citizen science [project](https://canair.io) that using mobile and fixed stations to measure air quality with ESP32 and Phones.
 
 - [CODOS](https://github.com/miguelangelcasanova/codos) - CODOS project repository about building low cost CO2 sensors for education centers.
 
@@ -22,9 +22,15 @@ Spanish Telegram Group where some of this projects developers are:
 
 - [ESP32SerialLogger](https://github.com/J-Rios/ESP32SerialLogger) - Connect multiples Serial devices to ESP32 UARTs and access them through a WebServer.
 
-- [tlg-tv-remote](https://github.com/J-Rios/tlg-tv-remote) - Send IR signal to control TV through a telegram bot using a ESP8266 or ESP32 microcontroller
+- [tlg-tv-remote](https://github.com/J-Rios/tlg-tv-remote) - Send IR signal to control TV through a telegram bot using a ESP8266 or ESP32 microcontroller.
 
-- [uTelegramBot](https://github.com/Kmiz07/uTelegramBot) - To control a Telegram bot from an ESP32 with MicroPython
+- [uTelegramBot](https://github.com/Kmiz07/uTelegramBot) - To control a Telegram bot from an ESP32 with MicroPython.
+
+- [lua_IRC](https://github.com/Kmiz07/lua_IRC) - IRC Bot from an ESP8266 with Lua.
+
+- [EnigmaIOT](https://github.com/gmag11/EnigmaIOT) - EnigmaIoT is an open source solution for wireless multi sensor systems. It has two main components, multiple nodes and one gateway.
+
+- [Fail Safe mode library for ESP8266 and ESP32](https://github.com/gmag11/FailSafeMode/) - It detects boot loops so after a few quick restart cycles it enters in a fail safe mode. Then it starts an AP where you can connect and send a new firmware using OTA.
 
 ## Users Repositories
 
@@ -37,3 +43,5 @@ Spanish Telegram Group where some of this projects developers are:
 - [@hpsaturn](https://github.com/hpsaturn) - Antonio Vanegas is a mobile applications specialist, open culture enthusiast, software freedom activist. Founder: [CanAir.IO](https://canair.io) Co-founder: [HackBo](http://hackbo.co) & [Lumera](http://lumera.co/ks)
 
 - [Kmiz07](https://github.com/Kmiz07)
+
+- [Germán Martín](https://github.com/gmag11)
