@@ -10,7 +10,9 @@ Spanish Telegram Group where some of this projects developers are:
 
 - [awesome-esp](https://github.com/agucova/awesome-esp) - Another existing Awesome list.
 
-- [CanAirIO](https://github.com/kike-canaries/canairio_firmware#canairio-firmware) - Citizen science [project](https://canair.io) that using mobile and fixed stations to measure air quality with ESP32 and Phones.
+- [CanAirIO](https://github.com/kike-canaries/canairio_firmware#canairio-firmware) - Citizen science [project](https://canair.io) that using mobile and fixed stations to measure air quality with ESP32 and Phones. It has a Bluetooth implementation for configured it.
+
+- [CanAirIO fixed station (ESP8266/ESP32)](https://github.com/hpsaturn/CanAirIO_fixed_station) - for wifi station only, it has a captive portal for configure it.
 
 - [CODOS](https://github.com/miguelangelcasanova/codos) - CODOS project repository about building low cost CO2 sensors for education centers.
 
