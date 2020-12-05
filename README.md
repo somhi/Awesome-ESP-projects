@@ -36,6 +36,8 @@ Spanish Telegram Group where some of this projects developers are:
 
 - [ESPNtpClient](https://github.com/gmag11/ESPNtpClient) - Very accurate NTP client, close to 1 millisecond.
 
+- [Recursos de programación para principiantes (en español)](https://github.com/Xibhu/Arduino/tree/master/RecursosProgramacionPrincipiantes) - Programming resources for beginners
+
 ## Users Repositories
 
 - [AndreasIBZ](https://github.com/AndreasIBZ) - Mechancial Engineer, hobbyist programmer, always "hands-on".
