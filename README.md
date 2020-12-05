@@ -44,7 +44,7 @@ Spanish Telegram Group where some of this projects developers are:
 
 - [@J-Rios](https://github.com/J-Rios) - Telecom engineer, specialized in electronics systems.
 
-- [Xibhu](https://github.com/xibhu) - Carlos mr. Ciclos superiores: Electrotecnia y Automatismos. Desarrollador de Aplicaciones Multiplataformas. Automatismos y Robótica Industrial.
+- [Xibhu](https://github.com/xibhu) - Carlos mr. IT Technician, Electric technician, Robotics technician.
 
 - [@hpsaturn](https://github.com/hpsaturn) - Antonio Vanegas is a mobile applications specialist, open culture enthusiast, software freedom activist. Founder: [CanAir.IO](https://canair.io) Co-founder: [HackBo](http://hackbo.co) & [Lumera](http://lumera.co/ks)
 
